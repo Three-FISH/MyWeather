@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="changeCity">切换城市</string>
+
+</resources>
